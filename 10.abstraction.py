@@ -57,7 +57,7 @@ email = Email()
 email.send_email()
 
 '''
-From this example you don't how an email is connecting and authenticating ,sending and disconnecting
+From this example you don't know how an email is connecting and authenticating ,sending and disconnecting
 you are just sending message
 
 '''
