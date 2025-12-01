@@ -3,6 +3,8 @@
 Inheritance is an OOP concept where a new class acquires the properties and behaviour of parent class.
 It promotes reusability of code.
 Key idea : Child inherits features from Parent.
+
+Inheritance  follows Is-A-Relationship
 '''
 # Parent Class
 class Vehicle:
